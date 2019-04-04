@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/TestGridViewSite81/Default.aspx) (VB: [Default.aspx](./VB/TestGridViewSite81/Default.aspx))
-* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx](./VB/TestGridViewSite81/Default.aspx))
+* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement header selection and row click editing for the detail ASPxGridView
 

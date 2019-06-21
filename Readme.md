@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement header selection and row click editing for the detail ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e312/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to handle the Init events to assign custom scripts that allow changing grid's selection dynamically and editing it when a row is clicked.</p><p><strong>See also:</strong><br />
